@@ -77,3 +77,11 @@ Description : Write a program to display even numbers between M and N using whil
 
 File Name: 20.py
 Description :  Write a python to display and sum of a list of numbeers using while loop , generate list using range()?
+
+
+File Name: 21.py
+Description : Write a program to display stars * in right angled triangle ?
+
+
+File Name: 22.py
+Description : Write a program to display stars * in Equilateral triangle ?
