@@ -73,4 +73,7 @@ Description : Write a program to find given number is a postive, negative or zer
 
 
 File Name: 19.py
-Description: Write a program to display even numbers between M and N using while loop
+Description : Write a program to display even numbers between M and N using while loop
+
+File Name: 20.py
+Description :  Write a python to display and sum of a list of numbeers using while loop , generate list using range()?
