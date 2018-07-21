@@ -1,5 +1,7 @@
 # 1kpythonrun
-Collection of 1000+ python programs
+# Collection of 1000+ python programs
+
+
 File Name: 1.py
 Description : Write a program to display the sum of any two complex numbers ?
 
@@ -14,3 +16,13 @@ Description : A python program to accept a string from keyboard and display it ?
 
 File Name: 5.py
 Description : Write a python program to accept a single character from a keyboard ?
+
+File Name: 6.py
+Description : A program to accept two numbers and return sum and incorporate trunc() from math module.
+
+File Name: 7.py
+Description : Write a python program to accept 3 numbers in the same line  and display their sum?   Also, write a logic to accept 3 numbers separated by comma.
+
+
+File Name: 8.py
+Description :Write a program to evaluate an expression entered from keyboard using eval()
