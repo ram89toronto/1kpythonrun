@@ -44,3 +44,14 @@ Description : Write a python program to display and find sum of numbers using co
 
 File Name: 11.py
 Description :  Write a program using moudle argparse and find square of integer number?
+
+File Name: 12.py
+Description : Write a python program to add two numbers using argument parser?
+
+
+File Name: 13.py
+Description : Write a python program to find the power value of a number when it raised to a particular power using argparse package using command line input
+
+
+File Name: 14.py
+Description : Write a program to accept 1 or more arguments and display them as a list  using argparse via command line
