@@ -1,0 +1,2 @@
+# Test program
+print("hello")
