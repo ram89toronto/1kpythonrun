@@ -55,3 +55,22 @@ Description : Write a python program to find the power value of a number when it
 
 File Name: 14.py
 Description : Write a program to accept 1 or more arguments and display them as a list  using argparse via command line
+
+
+File Name: 15.py
+Description : Write a python to calculate the area of circle using math package
+
+
+File Name: 16.py
+Description : Write a program to accept a number from keyboard and test whether its even or odd?
+
+
+File Name: 17.py
+Description : Write a python program to test given number is between 1 to 10 , use and , if and else?
+
+File Name: 18.py
+Description : Write a program to find given number is a postive, negative or zero using if ,elif & else
+
+
+File Name: 19.py
+Description: Write a program to display even numbers between M and N using while loop
