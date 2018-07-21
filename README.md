@@ -15,7 +15,7 @@ Description : Write a program to remove duplicate values from a given list using
 
 
 File Name: 4.py
-Description : A python program to accept a string from keyboard and display it ?
+Description : Write a python program to accept a string from keyboard and display it ?
 
 
 File Name: 5.py
@@ -23,7 +23,7 @@ Description : Write a python program to accept a single character from a keyboar
 
 
 File Name: 6.py
-Description : A program to accept two numbers and return sum and incorporate trunc() from math module.
+Description : Write a program to accept two numbers and return sum and incorporate trunc() from math module.
 
 
 File Name: 7.py
@@ -40,3 +40,7 @@ Description : Write a python program to accepting a list and tuple from keyboard
 
 File Name: 10.py
 Description : Write a python program to display and find sum of numbers using command line arugments
+
+
+File Name: 11.py
+Description :  Write a program using moudle argparse and find square of integer number?
