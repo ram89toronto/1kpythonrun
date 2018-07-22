@@ -88,4 +88,7 @@ Description : Write a program to display stars * in Equilateral triangle ?
 
 
 File Name: 23.py
-Description :  Write a program to search for an element in th list of elements using for-else
+Description :  Write a program to search for an element in th list of elements using for-else ?
+
+File Name: 24.py
+Description : Write a simple program to use assert for checking condition x>0?
