@@ -85,3 +85,7 @@ Description : Write a program to display stars * in right angled triangle ?
 
 File Name: 22.py
 Description : Write a program to display stars * in Equilateral triangle ?
+
+
+File Name: 23.py
+Description :  Write a program to search for an element in th list of elements using for-else
