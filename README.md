@@ -96,3 +96,7 @@ Description : Write a simple program to use assert for checking condition x>0?
 
 File Name: 25.py
 Description : Write a python program to take a input number and print prime number series ?
+
+
+File Name: 26.py
+Description : Write a program to compute sum of squares from 1 to number entered using a function definition ?
