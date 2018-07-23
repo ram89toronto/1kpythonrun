@@ -92,3 +92,7 @@ Description :  Write a program to search for an element in th list of elements u
 
 File Name: 24.py
 Description : Write a simple program to use assert for checking condition x>0?
+
+
+File Name: 25.py
+Description : Write a python program to take a input number and print prime number series ?
