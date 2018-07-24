@@ -104,4 +104,7 @@ Description : Write a program to compute sum of squares from 1 to number entered
 ## Package : Numpy
 
 File Name: 27.py
-Description : Write a program to create a numpy array with numbers and characters? 
+Description : Write a program to create a numpy array with numbers and characters?
+
+File Name: 28.py
+Description :  Write a program to create an array using linspace() and logspace() of numpy library ?
