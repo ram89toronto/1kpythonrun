@@ -100,3 +100,8 @@ Description : Write a python program to take a input number and print prime numb
 
 File Name: 26.py
 Description : Write a program to compute sum of squares from 1 to number entered using a function definition ?
+
+## Package : Numpy
+
+File Name: 27.py
+Description : Write a program to create a numpy array with numbers and characters? 
