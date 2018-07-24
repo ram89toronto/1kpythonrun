@@ -110,4 +110,7 @@ File Name: 28.py
 Description :  Write a program to create an array using linspace() and logspace() of numpy library ?
 
 File Name: 29.py
-Description : Write a program to create an array using arange() to write even and odd numbers between 1 to 100?
+Description : Write a program to create an array using numpy.arange() to write even and odd numbers between 1 to 100?
+
+File Name: 30.py
+Description : Write a program to create arrays using zeros() and ones()?
