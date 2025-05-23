@@ -1,0 +1,9 @@
+# Basic requirement for the Streamlit UI
+streamlit
+
+# --- For a full implementation, you would also need: ---
+# opencv-python  # For video processing (reading frames, etc.)
+# torch          # PyTorch, often a dependency for SAM2 models
+# torchvision    # Part of PyTorch, often needed
+# # Plus, the specific package for the SAM2 model if it's not included in a larger library,
+# # e.g., something like 'segment-anything-model-2' or similar.
