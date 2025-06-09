@@ -114,3 +114,6 @@ Description : Write a program to create an array using numpy.arange() to write e
 
 File Name: 30.py
 Description : Write a program to create arrays using zeros() and ones()?
+
+File Name: 31.py
+Description : Command-line app to query an online CSV for a person's age and city by name.
