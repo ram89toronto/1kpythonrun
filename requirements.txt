@@ -1,5 +1,7 @@
 # Basic requirement for the Streamlit UI
 streamlit
+mss
+Pillow
 
 # --- For a full implementation, you would also need: ---
 # opencv-python  # For video processing (reading frames, etc.)
