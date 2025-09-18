@@ -1,0 +1,31 @@
+# Configuration for the audio translation pipeline
+# ---
+# This file contains the settings for models, paths, and API keys.
+# Make sure to fill in your API keys for the services you want to use.
+
+paths:
+  # Input directory is not directly used by the pipeline script (which takes a file path),
+  # but can be useful for organizing project files.
+  input_dir: "input/"
+
+  # Directory where all outputs (chunks, final audio, transcripts, etc.) will be saved.
+  output_dir: "output/"
+
+models:
+  # Speaker diarization model from Hugging Face.
+  # Requires accepting the user agreement on the model's page.
+  diarization: "pyannote/speaker-diarization-3.1"
+
+  # OpenAI Whisper model for transcription.
+  # Options: "tiny", "base", "small", "medium", "large"
+  whisper: "base"
+
+api_keys:
+  # Your API key for ElevenLabs TTS service.
+  # Get one at https://elevenlabs.io/
+  elevenlabs: "YOUR_ELEVENLABS_API_KEY"
+
+  # The Google Cloud Translation API uses Application Default Credentials.
+  # This key is not used by the code, but serves as a reminder to authenticate.
+  # Run `gcloud auth application-default login` in your terminal.
+  google_cloud: "YOUR_GOOGLE_CLOUD_API_KEY_NOT_USED_SEE_COMMENT"
