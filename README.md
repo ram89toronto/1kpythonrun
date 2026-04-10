@@ -114,3 +114,6 @@ Description : Write a program to create an array using numpy.arange() to write e
 
 File Name: 30.py
 Description : Write a program to create arrays using zeros() and ones()?
+
+File Name: screenshot_app.py
+Description : A Streamlit application to capture and crop screenshots.
